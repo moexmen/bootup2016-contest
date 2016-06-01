@@ -1,0 +1,35 @@
+from runes import *
+
+#a = (overlay(nova_bb, rcross_bb))
+#b = beside(a,a)
+#show(anaglyph(stack(b,b)))
+
+
+
+#show(stacker(100,sail_bb))
+#show(turn_upside_down(stacker(100,sail_bb)))
+
+#show(overlay(nova_bb,sail_bb))
+#show(quarter_turn_right(overlay(nova_bb,sail_bb)))
+#show(flip_horiz(nova_bb))
+
+#show(ribbon_bb)
+
+#show(overlay(quarter_turn_right(corner_bb)))
+#show(overlay(quarter_turn_right(quarter_turn_right(corner_bb))))
+
+show(corner_bb)
+show(quarter_turn_right(corner_bb))
+show(quarter_turn_right(quarter_turn_right(corner_bb)))
+show(quarter_turn_right(quarter_turn_right(quarter_turn_right(corner_bb))))
+
+
+show(ribbon_bb)
+
+show(quarter_turn_right(ribbon_bb))
+
+show(quarter_turn_right(quarter_turn_right(ribbon_bb)))
+
+show(quarter_turn_right(quarter_turn_right(quarter_turn_right(ribbon_bb))))
+
+
