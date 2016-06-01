@@ -1,0 +1,5 @@
+from runes import *
+
+show(hollusion(overlay(scale(1/10, circle_bb),(tree(13,circle_bb)))))
+
+save_hollusion('CC-JustinTan-Stield.py')
